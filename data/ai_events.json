@@ -1,0 +1,38 @@
+[
+    {
+        "date": "1943-01-01",
+        "event_name": "First Artificial Neuron",
+        "authors": ["Warren McCulloch", "Walter Pitts"],
+        "summary": "First artificial neuron in computer science."
+    },
+    {
+        "date": "1950-01-01",
+        "event_name": "Paper: Computing Machinery and Intelligence",
+        "authors": ["Alan Turing"],
+        "summary": "Philosophical paper on AI. Introduced the Turing Test."
+    },
+    {
+        "date": "1956-01-01",
+        "event_name": "Dartmouth Workshop",
+        "authors": ["John McCarthy", "Marvin Minsky", "Nathaniel Rochester", "Claude Shannon"],
+        "summary": "First AI conference. Coined the term 'Artificial Intelligence'."
+    },
+    {
+        "date": "1986-10-09",
+        "event_name": "Paper: Learning representations by back-propagating errors",
+        "authors": ["David Rumelhart", "Geoffrey Hinton", "Ronald Williams"],
+        "summary": "Introduced backpropagation algorithm for training neural networks."
+    },
+    {
+        "date": "1989-12-01",
+        "event_name": "Paper: Backpropagation applied to handwritten zip code recognition",
+        "authors": ["Y. LeCun et. al"],
+        "summary": "First successful application of backpropagation algorithm and convolutional nets."
+    },
+    {
+        "date": "1998-11-01",
+        "event_name": "Paper: GradientBased Learning Applied to Document Recognition",
+        "authors": ["Yann LeCun", "Leon Bottou", "Yoshua Bengio", "Patrick Haffner"],
+        "summary": "LeNet-5, a pioneering 7-level convolutional network."
+    }
+]
