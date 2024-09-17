@@ -34,5 +34,173 @@
         "event_name": "Paper: GradientBased Learning Applied to Document Recognition",
         "authors": ["Yann LeCun", "Leon Bottou", "Yoshua Bengio", "Patrick Haffner"],
         "summary": "LeNet-5, a pioneering 7-level convolutional network."
+    },
+    {
+        "date": "2012-09-30",
+        "event_name": "Paper: ImageNet Classification with Deep Convolutional Neural Networks",
+        "authors": ["Alex Krizhevsky et al."],
+        "summary": "Won the ImageNet LSVRC-2010 contest"
+    },
+    {
+        "date": "2013-05-27",
+        "event_name": "Paper: Linguistic Regularities in Continuous Space Word Representations",
+        "authors": ["Mikolov et. al"],
+        "summary": "Word embeddings captures syntactic and semantic regularities in language."
+    },
+    {
+        "date": "2014-06-10",
+        "event_name": "Paper: DeepFace: Closing the Gap to Human-Level Performance in Face Verification",
+        "authors": ["Taigman et. al"],
+        "summary": "DeepFace is a deep learning facial recognition system created by a research group at Facebook."
+    },
+    {
+        "date": "2014-06-24",
+        "event_name": "Paper: Generative Adversarial Networks",
+        "authors": ["Ian Goodfellow et. al"],
+        "summary": "Introduced GANs"
+    },
+    {
+        "date": "2014-09-01",
+        "event_name": "Paper: Neural Machine Translation by Jointly Learning to Align and Translate",
+        "authors": ["Bahdanau et. al"],
+        "summary": "Introduced attention mechanism in neural networks."
+    },
+    {
+        "date": "2014-09-04",
+        "event_name": "Paper: Very Deep Convolutional Networks for Large-Scale Image Recognition",
+        "authors": ["Simonyan et. al"],
+        "summary": "Introduced VGGNet"
+    },
+    {
+        "date": "2014-09-17",
+        "event_name": "Paper: Going Deeper with Convolutions",
+        "authors": ["Szegedy et. al"],
+        "summary": "Introduced GoogLeNet / Inception"
+    },
+    {
+        "date": "2015-03-12",
+        "event_name": "Paper: A Unified Embedding for Face Recognition and Clustering",
+        "authors": ["Schroff et. al"],
+        "summary": "Introduced FaceNet"
+    },
+    {
+        "date": "2015-05-18",
+        "event_name": "Paper: U-Net: Convolutional Networks for Biomedical Image Segmentation",
+        "authors": ["Ronneberger et. al"],
+        "summary": "Introduced U-Net which is widely used in image segmentation."
+    },
+    {
+        "date": "2015-06-08",
+        "event_name": "Paper: YOLO (You Only Look Once): Unified, Real-Time Object Detection",
+        "authors": ["Redmon et. al"],
+        "summary": "Introduced YOLO, a real-time object detection system."
+    },
+    {
+        "date": "2015-08-26",
+        "event_name": "Paper: A Neural Algorithm of Artistic Style",
+        "authors": ["Gatsy et. al"],
+        "summary": "Introduced Neural Style Transfer which combines the content of an image with the style of another image."
+    },
+    {
+        "date": "2015-12-10",
+        "event_name": "Paper: Deep Residual Learning for Image Recognition",
+        "authors": ["Kaiming He et. al"],
+        "summary": "Introduced ResNet which won the ImageNet LSVRC-2015 contest."
+    },
+    {
+        "date": "2017-08-15",
+        "event_name": "Course: Deep Learning Specialization",
+        "authors": ["Andrew NG et. al"],
+        "summary": "Deep Learning Specialization on Coursera which I also completed."
+    },
+    {
+        "date": "2019-02-14",
+        "event_name": "Paper: Language Models are Unsupervised Multitask Learners",
+        "authors": ["Radford et. al"],
+        "summary": "GPT-2, LLMs are multitalented models that can perform a variety of tasks."
+    },
+    {
+        "date": "2020-05-28",
+        "event_name": "Paper: Language Models are Few-Shot Learners",
+        "authors": ["Brown et. al"],
+        "summary": "GPT-3, LLMs can perform tasks with very few examples."
+    },
+    {
+        "date": "1990-09-01",
+        "event_name": "Paper: Indexing by latent semantic analysis",
+        "authors": ["Deerwester et. al"],
+        "summary": "Introduced Latent Semantic Analysis (LSA) which is used in information retrieval and NLP."
+    },
+    {
+        "date": "2003-02-01",
+        "event_name": "Paper: A Neural Probabilistic Language Model",
+        "authors": ["Bengio et. al"],
+        "summary": "Introduced Neural Language Models."
+    },               
+    {
+        "date": "2013-01-16",
+        "event_name": "Paper: Efficient Estimation of Word Representations in Vector Space",
+        "authors": ["Mikolov et. al"],
+        "summary": "Introduced Word2Vec."
+    },                
+    {
+        "date": "2017-12-04",
+        "event_name": "Paper: Attention is All You Need",
+        "authors": ["Vaswani et. al"],
+        "summary": "Introduced the Transformer model which is the basis for many NLP models."
+    },
+    {
+        "date": "2018-06-11",
+        "event_name": "Paper: Improving Language Understanding by Generative Pretraining",
+        "authors": ["Radford et. al"],
+        "summary": "Introduced GPT-1 which is a large-scale unsupervised language model."
+    },
+    {
+        "date": "2017-12-04",
+        "event_name": "Paper: Attention is All You Need",
+        "authors": ["Vaswani et. al"],
+        "summary": "Introduced the Transformer model which is the basis for many NLP models."
+    },
+    {
+        "date": "1959-06-01",
+        "event_name": "Paper: Matching and prediction on the principle of biological classification",
+        "authors": ["WA Belson"],
+        "summary": "First step in decision tree learning."
+    },
+    {
+        "date": "1984-01-01",
+        "event_name": "Book: Classification and Regression Trees",
+        "authors": ["Leo Breiman et al."],
+        "summary": "Introduced CART which is a decision tree learning algorithm."
+    },    
+    {
+        "date": "1992-10-01",
+        "event_name": "Book: C4.5: Programs for Machine Learning",
+        "authors": ["Ross Quinlan"],
+        "summary": "Introduced C4.5 which is a decision tree learning algorithm."
+    },    
+    {
+        "date": "1995-08-14",
+        "event_name": "Paper: Random Decision Forests",
+        "authors": ["Tin Kam Ho"],
+        "summary": "Introduced Random Forests which is an ensemble learning method."
+    },
+    {
+        "date": "1997-08-01",
+        "event_name": "Paper: A decision-theoretic generalization of on-line learning and an application to boosting",
+        "authors": ["Yoav Freund", "Robert Schapire"],
+        "summary": "Introduced AdaBoost which is an ensemble learning method."
+    },
+    {
+        "date": "2001-10-01",
+        "event_name": "Paper: Random Forests",
+        "authors": ["Leo Breiman"],
+        "summary": "About random forests."
+    },
+    {
+        "date": "2009-01-01",
+        "event_name": "Paper: Multiclass AdaBoost",
+        "authors": ["Zhu et. al"],
+        "summary": "Introduced Multiclass AdaBoost."
     }
 ]
